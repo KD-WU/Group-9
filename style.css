@@ -75,7 +75,7 @@ footer{
 footer a{
     text-decoration:none;
     color:black;
-    transition:13px;
+    transition:0.3s;
 }
 
 footer a:hover{
